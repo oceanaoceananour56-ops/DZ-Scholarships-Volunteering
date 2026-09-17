@@ -1,0 +1,7 @@
+{
+  "name": "منح وتطوع الجزائر | DZ Scholarships & Volunteering",
+  "description": "تطبيق متكامل للمنح الدراسية الممولة بالكامل وجزئياً، وفرص التطوع داخل وخارج الجزائر، مع بطاقة المستخدم وطريقة الدفع عبر CCP وبريدي موب.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
